@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+#jumbotron{
+    display: flex;
+    background-color: blanchedalmond;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    background-image: url(https://wallpaperfordesktop.com/wp-content/uploads/2021/06/Dream-Smp-Wallpaper-HD.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    color: whitesmoke;
+}
